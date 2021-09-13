@@ -1,0 +1,16 @@
+{
+	"name": "True Survival",
+	"description": "",
+	"changeNote": "",
+	"author": "Hardcore Survival Mode for Conan Exiles",
+	"authorUrl": "",
+	"versionMajor": 1,
+	"versionMinor": 0,
+	"versionBuild": 0,
+	"bRequiresLoadOnStartup": false,
+	"steamPublishedFileId": "",
+	"steamVisibility": 2,
+	"folderName": "true-survival",
+	"revisionNumber": 314055,
+	"snapshotId": 30574
+}
