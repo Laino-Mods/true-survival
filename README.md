@@ -25,7 +25,6 @@ Legend: * means modified, + means added, and - means removed
     - +Internal Bleeding: lasts 10 minutes, causes 1 damage / 6 seconds, max 10 stacks
     - +Fracture: reduces movement speed by 35%, can cause internal bleeding, max 2 stacks
     - +Hemostasis: prevents damage from bleeding and internal bleeding
-    - +Painkiller: prevents movement speed reduction from fractures
 
 - Items
     - *Rough Wraps: don't heal but remove 3 stacks of bleeding
@@ -35,7 +34,7 @@ Legend: * means modified, + means added, and - means removed
     - *Infused Wraps: don't heal but remove 40 stacks of bleeding (planned: provide buff)
     - *Weak Aloe Extract: doesn't heal but gives hemostasis (5 minutes)
     - *Aloe Extract: doesn't heal but gives hemostasis (10 minutes)
-    - *Concentrated Aloe Extract: doesn't heal but gives hemostasis and painkiller (20 minutes)
-    - *Pure Aloe Extract: doesn't heal but gives hemostasis and painkiller (30 minutes)
-    - *Infused Aloe Extract: doesn't heal but gives hemostasis and painkiller (60 minutes)
+    - *Concentrated Aloe Extract: doesn't heal but gives hemostasis (20 minutes)
+    - *Pure Aloe Extract: doesn't heal but gives hemostasis (30 minutes)
+    - *Infused Aloe Extract: doesn't heal but gives hemostasis (60 minutes)
     - +Potion of Bleeding: causes bleeding (for testing purposes)
