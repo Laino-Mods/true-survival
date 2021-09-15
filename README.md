@@ -4,7 +4,7 @@ True Survival
 Turns Conan Exiles into a hardcore survival game.
 
 Most sources of easily accessible instantanious healing are removed,
-debuffs last longer and should be removed with an appropriate item.
+bleeding lasts longer and should be removed with an appropriate item.
 
 Players have a chance of receiving a bleeding debuff upon being hit and of
 getting a fracture upon taking fall damage.
