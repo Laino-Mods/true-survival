@@ -65,7 +65,7 @@ Disables Vitality_30 perk and replaces it with a custom one.
 
 Overrides the following vanilla files:
 
-``
+```
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_CantCleanse.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_NeverEnds.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_NonStackingProc.uasset
@@ -75,4 +75,4 @@ Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_WeaponProc.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_GenericPoison.uasset
 Content/Systems/Buffs/HealthRegen/BP_AC_Buff_SatedBonusHealthRegen.uasset
 Content/Systems/Buffs/Heal_OverTime/BP_AC_Buff_Healing_From_Food.uasset
-``
+```
