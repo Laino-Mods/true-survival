@@ -3,9 +3,10 @@
 Turns Conan Exiles into a hardcore survival game.
 
 [list]
-    [*]Most sources of easily accessible instantanious healing are removed.
-    [*]Debuffs last longer and but can removed with an appropriate item.
-    [*]New debuffs like *Fracture* added.
+    [*]Most sources of easily accessible instantanious healing removed.
+    [*]Heal *slowly* over time outside combat, quickly if sheltered.
+    [*]Bleeds last longer and but can removed with an appropriate item.
+    [*]Can get bone fractures and fix them with splints.
 [/list]
 
 [h2]FAQ[/h2]
@@ -21,7 +22,7 @@ The healing process will use your food and drink reserves.
 
 [b]Okay so what do Bandages and Aloe Extracts do now?[/b]
 
-They remove (external) bleeding and prevent damage from bleeding respectively.
+They remove (external) bleeding and reduce damage from bleeding respectively.
 
 [h2]Features & Changes[/h2]
 
