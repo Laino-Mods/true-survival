@@ -15,7 +15,7 @@ more quickly. This effect is greatly accelerated while sheltered and reduced whi
 Changes to the Base Game
 ------------------------
 
-Legend: = means modified, + means added, and - means removed
+Legend: * means modified, + means added, and - means removed
 
 #### Players
 - +Natural Healing: Player heal naturally over time, reduced when bleeding, increased when sheltered.
