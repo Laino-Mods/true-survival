@@ -1,0 +1,28 @@
+[h1]True Survival[/h1]
+
+Turns Conan Exiles into a hardcore survival game.
+
+[list]
+    [*]Most sources of easily accessible instantanious healing are removed.
+    [*]Debuffs last longer and but can removed with an appropriate item.
+    [*]New debuffs like *Fracture* added.
+[/list]
+
+[h2]FAQ[/h2]
+
+[b]I fell and got a fracture. How do I fix it?[/b]
+
+Make an *Improvised Splint* or *Splint* (unlocked separately).
+
+[b]If Aloe Extract and Wraps don't heal me, how do I heal?[/b]
+
+Construct or find shelter. You slowly heal over time, and much faster while sheltered.
+The healing process will use your food and drink reserves.
+
+[b]Okay so what do Bandages and Aloe Extracts do now?[/b]
+
+They remove (external) bleeding and prevent damage from bleeding respectively.
+
+[h2]Features & Changes[/h2]
+
+[url=https://github.com/Conan-Survival/true-survival/blob/master/README.md]Read a full breakdown on GitHub[/url]
