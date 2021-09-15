@@ -1,6 +1,6 @@
 Turns Conan Exiles into a hardcore survival game.
 
-[h2]Currently WIP[/h2]
+[h2]Alpha - Currently WIP[/h2]
 
 All descriptions represent the current state of the mod.
 More features and changes are planned.
