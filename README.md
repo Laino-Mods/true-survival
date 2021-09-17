@@ -10,7 +10,7 @@ Players have a chance of receiving a bleeding debuff upon being hit and of
 getting a fracture upon taking fall damage.
 
 Players will heal naturally outside combat, at the cost of depleting their hunger and thirst gauges
-more quickly. This effect is greatly accelerated while sheltered and reduced while bleeding.
+more quickly. This effect is greatly accelerated while sheltered and disabled while bleeding.
 
 Changes to the Base Game
 ------------------------
@@ -18,17 +18,20 @@ Changes to the Base Game
 Legend: \* means modified, + means added, and - means removed
 
 #### Players
-- +Natural Healing: Players heal naturally outside combat, reduced when bleeding, increased when sheltered.
+- +Natural Healing:
+  Players heal naturally outside combat, increased when sheltered, disabled when bleeding.
 
 #### Perks
 - \*Fierce Vitality: grants *increased* passive health regeneration.
+- \*Gluttonous Gains: grants increased passive health regeneration while sated.
 
 #### Buffs/Debuffs
 - \*Bleeding: lasts 5 minutes, causes 1 damage / 3 seconds, max 20 stacks
+- \*Sated: no longer provides any healing, natural regeneration uses no food/drink
+- +Engaged: Disables regeneration.
+- +Fracture: reduces movement speed by 35%, can cause internal bleeding, max 2 stacks
 - +Internal Bleeding: lasts 5 minutes, causes 1 damage / 3 seconds, max 10 stacks
 - +Hemostasis: lasts 10 minutes, reduces damage from bleeding and internal bleeding
-- \*Sated: no longer provides any healing, natural regeneration uses no food/drink
-- +Fracture: reduces movement speed by 35%, can cause internal bleeding, max 2 stacks
 - +Improvised Splint: lasts 10 minutes, reduces movement speed by 10%, max 2 stacks
 
 #### Items
@@ -47,7 +50,7 @@ Legend: \* means modified, + means added, and - means removed
 - +Potion of Bleeding: causes bleeding (for testing purposes)
 
 #### NPCs
-- +Natural Healing: Bleeds are shortened by 90%.
+- +Disengage: When not engaged, NPCs will remove all bleeding effects.
 
 #### Misc (oddities)
 - \*Bleeding (non stacking version): replaced with 5 regular bleed stacks
