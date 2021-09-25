@@ -25,7 +25,7 @@ Changes to the Base Game
 Legend: \* means modified, + means added, and - means removed
 
 #### Systems
-- \*Time of Day: Fixed to accurately honor server settings
+- \*Time of Day: Changed to accurately honor server settings.
 - \+The Hunt: Creatures will hunt players during the night, but not approach campfires.
 
 #### Players
@@ -63,6 +63,7 @@ Legend: \* means modified, + means added, and - means removed
 ### Buildings
 - \*Wall Palisade: model changed to better reflect the kind of wood used (shaped wood)
 - \+Improvised Barricade: keeps wildlife at bay, useless against players
+- \+Improvised Tent: provides early access to shelter
 
 #### NPCs
 - +Disengage: When not engaged, NPCs will remove all bleeding effects.

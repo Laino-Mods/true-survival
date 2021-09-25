@@ -1,30 +1,35 @@
 Turns Conan Exiles into a hardcore survival game.
 
-[h2]Alpha - Currently WIP[/h2]
-
-All descriptions represent the current state of the mod.
-More features and changes are planned.
-
 [h2]Features[/h2]
 [list]
     [*]The Hunt: Creatures will hunt you during the night. Take refuge next to a campfire.
-    [*]Camping: New buildings for nicer campsites.
+    [*]Camping Supplies: New buildings for improvised campsites.
     [*]No Magic Bandages: Most sources of healing removed.
     [*]Natural Healing: Heal [i]slowly[/i] over time outside combat, quickly if sheltered.
     [*]I'm Leaking: Bleeds last longer and can removed with wraps.
-    [*]Stick the Landing: Can get bone fractures and fix them with splints.
+    [*]Better Stick the Landing: Can get bone fractures and fix them with splints.
+    [*]Fixes: Makes Conan's Day/Night cycle settings actually work as advertised.
 [/list]
 
 [url=https://github.com/Conan-Survival/true-survival/blob/master/README.md]Read a full breakdown on GitHub[/url]
 
 [h2]FAQ[/h2]
 
-[b]I fell and got a fracture. How do I fix it?[/b]
-Make an [i]Improvised Splint[/i] or [i]Splint[/i] (from feat).
-
 [b]If Aloe Extract and Wraps don't heal me, how do I heal?[/b]
-Construct or find shelter. You slowly heal over time, and much faster while sheltered.
-The healing process will use your food and drink reserves.
+Construct or find [i]shelter[/i]. Even a tent will do.
+You slowly heal over time, and much faster while sheltered.
+
+[b]Why am I becoming hungry and thirsty so fast?[/b]
+The healing process will use your food and drink reserves - [i]except[/i] if you are [i]sated[/i].
+Make sure to apply the [i]sated[/i] buff to yourself if you are hurt.
 
 [b]Okay so what do Bandages and Aloe Extracts do now?[/b]
 They remove (external) bleeding and reduce damage from bleeding respectively.
+
+[b]I fell and got a fracture. How do I fix it?[/b]
+Make an [i]Improvised Splint[/i] or [i]Splint[/i] (from feat).
+
+[h2]Alpha - Currently WIP[/h2]
+
+All descriptions represent the current state of the mod.
+More features and changes are planned.
