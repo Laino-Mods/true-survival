@@ -7,10 +7,12 @@ More features and changes are planned.
 
 [h2]Features[/h2]
 [list]
-    [*]Most sources of easily accessible instantanious healing removed.
-    [*]Heal [i]slowly[/i] over time outside combat, quickly if sheltered.
-    [*]Bleeds last longer and but can removed with wraps.
-    [*]Can get bone fractures and fix them with splints.
+    [*]The Hunt: Creatures will hunt you during the night. Take refuge next to a campfire.
+    [*]Camping: New buildings for nicer campsites.
+    [*]No Magic Bandages: Most sources of healing removed.
+    [*]Natural Healing: Heal [i]slowly[/i] over time outside combat, quickly if sheltered.
+    [*]I'm Leaking: Bleeds last longer and can removed with wraps.
+    [*]Stick the Landing: Can get bone fractures and fix them with splints.
 [/list]
 
 [url=https://github.com/Conan-Survival/true-survival/blob/master/README.md]Read a full breakdown on GitHub[/url]

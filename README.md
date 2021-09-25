@@ -12,18 +12,29 @@ getting a fracture upon taking fall damage.
 Players will heal naturally outside combat, at the cost of depleting their hunger and thirst gauges
 more quickly. This effect is greatly accelerated while sheltered and disabled while bleeding.
 
+A new 'hunt' system has been added. No. You're not hunting anything. You're prey.
+If you wander outside at night, creatures will make hunt for you. Your only refuge will
+be around campfires (as long as you can keep them going).
+
+Some new buildings have been added. Mostly to expand upon the campsites you'll be setting up
+as you travel the world.
+
 Changes to the Base Game
 ------------------------
 
 Legend: \* means modified, + means added, and - means removed
 
+#### Systems
+- \*Time of Day: Fixed to accurately honor server settings
+- \+The Hunt: Creatures will hunt players during the night, but not approach campfires.
+
 #### Players
 - +Natural Healing:
-  Players heal naturally outside combat, increased when sheltered, disabled when bleeding.
+  Players heal naturally outside combat, increased when sheltered, disabled when bleeding
 
 #### Perks
-- \*Fierce Vitality: grants *increased* passive health regeneration.
-- \*Gluttonous Gains: grants increased passive health regeneration while sated.
+- \*Fierce Vitality: grants *increased* passive health regeneration
+- \*Gluttonous Gains: grants increased passive health regeneration while sated
 
 #### Buffs/Debuffs
 - \*Bleeding: lasts 5 minutes, causes 1 damage / 3 seconds, max 20 stacks
@@ -48,6 +59,10 @@ Legend: \* means modified, + means added, and - means removed
 - +Improvised Splint: removes a fracture but causes improvised splint
 - +Splint: removes a fracture or improvised splint
 - +Potion of Bleeding: causes bleeding (for testing purposes)
+
+### Buildings
+- \*Wall Palisade: model changed to better reflect the kind of wood used (shaped wood)
+- \+Improvised Barricade: keeps wildlife at bay, useless against players
 
 #### NPCs
 - +Disengage: When not engaged, NPCs will remove all bleeding effects.
@@ -77,6 +92,7 @@ Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_ShrapnelGrenade.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_SpikedTrap.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Bleeding_WeaponProc.uasset
 Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_GenericPoison.uasset
+Content/Systems/Buffs/Damage_OverTime/BP_AC_Buff_Palisade.uasset
 Content/Systems/Buffs/HealthRegen/BP_AC_Buff_SatedBonusHealthRegen.uasset
 Content/Systems/Buffs/Heal_OverTime/BP_AC_Buff_Healing_From_Food.uasset
 ```
