@@ -8,7 +8,7 @@ Turns Conan Exiles into a hardcore survival game.
     [*]Natural Healing: Heal [i]slowly[/i] over time outside combat, quickly if sheltered.
     [*]I'm Leaking: Bleeds last longer and can removed with wraps.
     [*]Better Stick the Landing: Can get bone fractures and fix them with splints.
-    [*]Fixes: Makes Conan's Day/Night cycle settings actually work as advertised.
+    [*]No Funcom Special: Day/Night cycles are now exactly as long as configured.
 [/list]
 
 [url=https://github.com/Conan-Survival/true-survival/blob/master/README.md]Read a full breakdown on GitHub[/url]

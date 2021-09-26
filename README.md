@@ -25,8 +25,9 @@ Changes to the Base Game
 Legend: \* means modified, + means added, and - means removed
 
 #### Systems
-- \*Time of Day: Changed to accurately honor server settings.
 - \+The Hunt: Creatures will hunt players during the night, but not approach campfires.
+- \*Time of Day: Changed to accurately honor server settings.
+- \*Catch Up Time: If enabled, everyone under level 5 uses catch up time.
 
 #### Players
 - +Natural Healing:
