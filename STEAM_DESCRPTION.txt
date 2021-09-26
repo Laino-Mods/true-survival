@@ -9,6 +9,7 @@ Turns Conan Exiles into a hardcore survival game.
     [*]I'm Leaking: Bleeds last longer and can removed with wraps.
     [*]Better Stick the Landing: Can get bone fractures and fix them with splints.
     [*]No Funcom Special: Day/Night cycles are now exactly as long as configured.
+    [*]Improved AI: Only used by *Hunt* monsters while it is being tested.
 [/list]
 
 [url=https://github.com/Conan-Survival/true-survival/blob/master/README.md]Read a full breakdown on GitHub[/url]
