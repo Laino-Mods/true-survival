@@ -25,13 +25,14 @@ Changes to the Base Game
 Legend: \* means modified, + means added, and - means removed
 
 #### Systems
-- \+The Hunt: Creatures will hunt players during the night, but not approach campfires.
-- \*Time of Day: Changed to accurately honor server settings.
-- \*Catch Up Time: If enabled, everyone under level 5 uses catch up time.
+- \+The Hunt: Creatures will hunt players during the night, but not approach campfires
+- \*Time of Day: Changed to accurately honor server settings
+- \*Catch Up Time: If enabled, everyone under level 5 uses catch up time
 
 #### Players
 - +Natural Healing:
-  Players heal naturally outside combat, increased when sheltered, disabled when bleeding
+  Players heal naturally outside combat, increased when sheltered, disabled when bleeding,
+  in combat or unprotected in sandstorms.
 
 #### Perks
 - \*Fierce Vitality: grants *increased* passive health regeneration
@@ -40,7 +41,7 @@ Legend: \* means modified, + means added, and - means removed
 #### Buffs/Debuffs
 - \*Bleeding: lasts 5 minutes, causes 1 damage / 3 seconds, max 20 stacks
 - \*Sated: no longer provides any healing, natural regeneration uses no food/drink
-- +Engaged: Disables regeneration.
+- +Engaged: Tracks whether players/NPCs are in combat
 - +Fracture: reduces movement speed by 35%, can cause internal bleeding, max 2 stacks
 - +Internal Bleeding: lasts 5 minutes, causes 1 damage / 3 seconds, max 10 stacks
 - +Hemostasis: lasts 10 minutes, reduces damage from bleeding and internal bleeding
@@ -76,14 +77,14 @@ Legend: \* means modified, + means added, and - means removed
 - \*Bone Shrapnel: replaced with 10 regular bleed stacks
 
 #### Fixes
-- BP_AC_Buff_GenericPoison: displayed incorrect damage numbers for poisons
+- \*BP_AC_Buff_GenericPoison: displayed incorrect damage numbers for poisons
 
 For Modders
 -----------
 
 Uses Item IDs: 888999001 - 889000000
 
-Disables Vitality_30 perk and replaces it with a custom one.
+Disables Vitality_30 and Vitality_50 perks and replaces them with custom ones.
 
 Overrides the following vanilla files:
 
